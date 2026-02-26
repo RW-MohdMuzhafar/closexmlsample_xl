@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("clarion.housing.console.migration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e82b1601dbcfd708623245009ec88722ec441a43")]
 [assembly: System.Reflection.AssemblyProductAttribute("clarion.housing.console.migration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("clarion.housing.console.migration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

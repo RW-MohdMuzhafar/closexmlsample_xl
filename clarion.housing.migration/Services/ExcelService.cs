@@ -54,15 +54,48 @@ namespace clarion.housing.console.migration.Services
             return data;
         }
 
-        public static CaseMigrationData GetPropertyComplianceData()
+        public static PropertyComplianceData GetPropertyComplianceData()
         {
-            //        data.AdviceSupportResults = SheetMapperInbound.GetDataSet<ElectricSchedule>(
-            //FileService.GetInboundDataFilePath(ExcelFileType.AdviceAndSupportCases_16)
-            //, "Sheet1");
 
-            //        data.AdviceSupportResults = SheetMapperInbound.GetDataSet<GasSchedule>(
-            //FileService.GetInboundDataFilePath(ExcelFileType.AdviceAndSupportCases_16)
-            //, "Sheet1");
+            // TODO - Complete PropertyComplianceData.cs will be the result of all
+            // mappings from the following templates:
+
+            // Uses PropertyComplianceData.cs
+
+            //ExcelFileType.ElectricSchedule_7
+            //ExcelFileType.GasSchedule_6
+
+            return default;
+        }
+
+
+        public static Stream ExportFilteredPropertyComplianceDataAsStream()
+        {
+            // To do make this work like ExportFilteredCaseData
+            // but return a stream instead of saving to a file path, and filter the inbound model.
+            // Uses PropertyComplianceData.cs
+
+            return default;
+        }
+
+        public static AssetComponentData GetAssetComponentData()
+        {
+            // TODO - Complete AssetComponentData.cs will be the result of all
+            //ExcelFileType.AssetComponentData_9
+            //ExcelFileType.SapRatings_11
+            //ExcelFileType.FullRdSap_12
+
+            // Uses AssetComponentData.cs
+
+            return default;
+        }
+
+        public static Stream ExportFilteredAssetComponentDataAsStream()
+        {
+            // Uses AssetComponentData.cs
+            // To do make this work like ExportFilteredCaseData
+            // but return a stream instead of saving to a file path, and filter the inbound model.
+            // (AssetComponentData)
 
             return default;
         }
