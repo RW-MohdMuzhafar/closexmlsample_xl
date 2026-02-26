@@ -1,0 +1,15 @@
+C:\dev\data-migrations\clarion-housing-load\bin\Debug\net8.0\clarion-housing-console-migration.exe
+C:\dev\data-migrations\clarion-housing-load\bin\Debug\net8.0\clarion-housing-console-migration.deps.json
+C:\dev\data-migrations\clarion-housing-load\bin\Debug\net8.0\clarion-housing-console-migration.runtimeconfig.json
+C:\dev\data-migrations\clarion-housing-load\bin\Debug\net8.0\clarion-housing-console-migration.dll
+C:\dev\data-migrations\clarion-housing-load\bin\Debug\net8.0\clarion-housing-console-migration.pdb
+C:\dev\data-migrations\clarion-housing-load\obj\Debug\net8.0\clarion-housing-console-migration.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\data-migrations\clarion-housing-load\obj\Debug\net8.0\clarion-housing-console-migration.AssemblyInfoInputs.cache
+C:\dev\data-migrations\clarion-housing-load\obj\Debug\net8.0\clarion-housing-console-migration.AssemblyInfo.cs
+C:\dev\data-migrations\clarion-housing-load\obj\Debug\net8.0\clarion-housing-console-migration.csproj.CoreCompileInputs.cache
+C:\dev\data-migrations\clarion-housing-load\obj\Debug\net8.0\clarion-housing-console-migration.sourcelink.json
+C:\dev\data-migrations\clarion-housing-load\obj\Debug\net8.0\clarion-housing-console-migration.dll
+C:\dev\data-migrations\clarion-housing-load\obj\Debug\net8.0\refint\clarion-housing-console-migration.dll
+C:\dev\data-migrations\clarion-housing-load\obj\Debug\net8.0\clarion-housing-console-migration.pdb
+C:\dev\data-migrations\clarion-housing-load\obj\Debug\net8.0\clarion-housing-console-migration.genruntimeconfig.cache
+C:\dev\data-migrations\clarion-housing-load\obj\Debug\net8.0\ref\clarion-housing-console-migration.dll

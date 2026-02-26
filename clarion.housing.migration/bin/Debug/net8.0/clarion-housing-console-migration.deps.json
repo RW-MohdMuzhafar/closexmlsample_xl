@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "clarion-housing-console-migration/1.0.0": {
+        "runtime": {
+          "clarion-housing-console-migration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clarion-housing-console-migration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
